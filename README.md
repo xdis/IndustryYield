@@ -121,5 +121,3 @@ MIT
 
 如有任何问题，请通过[Issues](https://github.com/yourusername/IndustryYield/issues)联系。
 ```
-
-这个README和requirements.txt文件应该能够帮助其他用户理解项目并成功运行代码。你可以根据自己的实际情况调整GitHub用户名和其他细节。这个README和requirements.txt文件应该能够帮助其他用户理解项目并成功运行代码。你可以根据自己的实际情况调整GitHub用户名和其他细节。
